@@ -1,10 +1,10 @@
-# Jamshidbek Mardonov - Python Backend Developer
+# Jamshid Mardonov - Python Backend Developer
 
 ## About Me
 Salom! Men **Python Backend Developer**man. Web ilovalar yaratish, RESTful API lar tuzish va ma’lumotlar bazalari bilan ishlash bo‘yicha tajribam bor. Loyihalarni samarali va tezkor yetkazishga e’tibor qarataman.
 
-- **Email:** jamshidbek@example.com  
-- **Telegram:** [@Jamshidbek_M](https://t.me/Jamshidbek_M)  
+- **Email:** jamshidmardonov323@gmail.com  
+- **Telegram:** [@JamshidMardonov](https://t.me/JamshidMardonov)  
 - **Portfolio / GitHub:** [github.com/jamshidbek](https://github.com/jamshidbek)
 
 ---
