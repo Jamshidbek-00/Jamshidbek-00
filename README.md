@@ -1,16 +1,60 @@
-## Hi there 👋
+# Jamshidbek Mardonov - Python Backend Developer
 
-<!--
-**Jamshidbek-00/Jamshidbek-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Salom! Men **Python Backend Developer**man va web ilovalarni yaratish, RESTful API lar tuzish va ma’lumotlar bazalari bilan ishlash bo‘yicha tajribam bor. Zamonaviy backend yechimlarni ishlab chiqishga qiziqaman va loyihalarni tez va samarali yetkazib berishga e’tibor qarataman.
 
-Here are some ideas to get you started:
+- **Email:** jamshidbek@example.com  
+- **Telegram:** @Jamshidbek_M  
+- **Portfolio / GitHub:** [github.com/jamshidbek](https://github.com/jamshidbek)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+### Programming Languages
+- Python  
+- SQL
+
+### Frameworks & Libraries
+- Django / Django REST Framework  
+- Flask  
+- FastAPI  
+
+### Database
+- PostgreSQL  
+- MySQL  
+- SQLite  
+
+### Tools & Others
+- Git / GitHub  
+- Docker  
+- RESTful API design  
+- Unit Testing  
+
+---
+
+## Experience
+- **Backend Developer** – [Company Name]  
+  - RESTful API lar yaratish va qo‘llab-quvvatlash  
+  - Ma’lumotlar bazasi dizayni va optimizatsiyasi  
+  - Loyihalarni Docker orqali deploy qilish  
+
+- **Freelance Projects**  
+  - Django va Flask asosidagi web ilovalar  
+  - E-commerce va CRM tizimlar uchun backend yechimlar  
+
+---
+
+## Projects
+- **Project Name** – Short description + [GitHub Link]  
+- **Project Name** – Short description + [GitHub Link]  
+- **Project Name** – Short description + [GitHub Link]  
+
+---
+
+## Contact Me
+Agar siz loyiha bo‘yicha yoki hamkorlik uchun bog‘lanmoqchi bo‘lsangiz:  
+
+- **Email:** jamshidbek@example.com  
+- **Telegram:** @Jamshidbek_M  
+- **Portfolio / GitHub:** [github.com/jamshidbek](https://github.com/jamshidbek)
